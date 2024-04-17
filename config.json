@@ -1,0 +1,23 @@
+{
+  "supportedVersions": ["0.1.3"],
+  "updateMessages": {
+    "latest": "Bu güncelleme, kendi içinde mapping işlemi yapan tüm modallardaki responsive tasarım hatalarını giderir. Ayrıca, examples modallardaki window heightin büyümesiyle meydana gelen responsive tasarım hatalarını da düzeltir. Seri Monitore verileri ekleyen sistem güncellendi ve daha stabil çalışması sağlandı; artık oluşan kod hataları altı çizilmektedir. Ayrıca, otomatik olarak belirli aralıklarda ve açılışta kütüphane indexlerini güncelleyen sistem, hatalardan arındırıldı, böylece kullanıcılar artık yeni çıkan ve güncellenen kütüphaneleri hatasız bir şekilde indirebilirler.",
+    "0.1.3": "Bu güncelleme, kendi içinde mapping işlemi yapan tüm modallardaki responsive tasarım hatalarını giderir. Ayrıca, examples modallardaki window heightin büyümesiyle meydana gelen responsive tasarım hatalarını da düzeltir. Seri Monitore verileri ekleyen sistem güncellendi ve daha stabil çalışması sağlandı; artık oluşan kod hataları altı çizilmektedir. Ayrıca, otomatik olarak belirli aralıklarda ve açılışta kütüphane indexlerini güncelleyen sistem, hatalardan arındırıldı, böylece kullanıcılar artık yeni çıkan ve güncellenen kütüphaneleri hatasız bir şekilde indirebilirler.",
+    
+    "0.1.2": "Artık eski nesil ana sayfaya veda edin ve tek bir düzenleme penceresi aracılığıyla her şeye erişin ve düzenleyin. Performansı düşüren sorunlar giderildi ve duyarlılık güncellemeleri yapıldı. Yenilenmiş deneyimimizle çalışmaya başlayın!",
+    "0.1.1": "Bu güncellemeyle birlikte kullanıcılar artık birden fazla editör penceresi kullanabilecekler. Ayrıca, editörün kaynakladığı hatalar üzerinde çalışıldı ve giderildi. Yapılan düzeltmeler sayesinde kullanıcılar daha sorunsuz bir deneyim yaşayacaklar.",
+    "0.1.0": "Bu güncelleme, kullanıcı deneyimini daha da optimize etmek amacıyla gerçekleştirilmiştir.",
+    "0.0.9": "Yenilenmiş kütüphane kaldırma özelliği, ekran boyutuna adaptasyon yeteneği, geliştirilmiş seri haberleşme altyapısı ve bir dizi yenilikle birlikte, çeşitli hatalar da başarıyla giderilmiştir. Bu güncelleme, kullanıcı deneyimini daha da optimize etmek amacıyla gerçekleştirilmiştir.",
+    "0.0.8": "Deneyap Kart Agent & IDE stabilizasyonu artırıldı ve kullanıcı deneyimini etkileyen hatalar düzeltildi.",
+    "0.0.7": "Yazılım, artık daha yüksek bir stabiliti seviyesine ulaştı; bu süreçte, kullanıcı geri bildirimleri dikkate alınarak yeni özellikler eklenmiş ve mevcut hatalar titizlikle giderilmiştir."
+  },
+  "boards": [
+    { "name": "Deneyap Kart", "fqbn": "dydk_mpv10" },
+    { "name": "Deneyap Mini", "fqbn": "dym_mpv10" },
+    { "name": "Deneyap Kart 1A", "fqbn": "dydk1a_mpv10" },
+    { "name": "Deneyap Kart G", "fqbn": "dyg_mpv10" },
+    { "name": "Deneyap Mini V2", "fqbn": "dym_mpv20" },
+    { "name": "Deneyap Kart 1A V2", "fqbn": "dydk1a_mpv20" }
+  ],
+  "author": "https://github.com/pxsty0"
+}
