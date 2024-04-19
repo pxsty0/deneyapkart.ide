@@ -1,0 +1,122 @@
+[
+  {
+    "label": "pinMode",
+    "type": "function",
+    "info": "Pinlerin türünü (giriş/çıkış) belirtir"
+  },
+  {
+    "label": "digitalRead",
+    "type": "function",
+    "info": "Dijital pinden okuma yapar"
+  },
+  {
+    "label": "digitalWrite",
+    "type": "function",
+    "info": "Dijital pine çıkış verir"
+  },
+  {
+    "label": "#define",
+    "type": "variable",
+    "info": "Makro tanımlarken kullanılır"
+  },
+  {
+    "label": "#include",
+    "type": "function",
+    "info": "Kütüphane tanımlarken kullanılır"
+  },
+  {
+    "label": "int",
+    "type": "variable"
+  },
+  {
+    "label": "String",
+    "type": "variable"
+  },
+  {
+    "label": "bool",
+    "type": "variable"
+  },
+  {
+    "label": "double",
+    "type": "variable"
+  },
+  {
+    "label": "if",
+    "type": "control",
+    "info": "Belirtilen koşulu kontrol eder ve koşul doğruysa belirtilen bloğu çalıştırır."
+  },
+  {
+    "label": "switch",
+    "type": "control",
+    "apply": "switch(degisken) {\n\tcase 1:\n\t\t// code\n\t\tbreak;\n\tcase 2:\n\t\t// code\n\t\tbreak;\n\tdefault:\n\t\t// code\n}",
+    "info": "Belirtilen değişkenin değerine bağlı olarak farklı durumları kontrol eder."
+  },
+  {
+    "label": "for",
+    "type": "control",
+    "apply": "for (int i = 0; i < 5; i++) {\n\t// code\n}",
+    "info": "Belirtilen bir döngüyü belirli bir sayıda veya belirli bir koşula kadar çalıştırır."
+  },
+  {
+    "label": "while",
+    "type": "control",
+    "apply": "while (kosul) {\n\t// code\n}",
+    "info": "Belirli bir koşul sağlanana kadar döngüyü çalıştırır."
+  },
+  {
+    "label": "void",
+    "type": "function",
+    "info": "Fonksiyonun geri dönüş tipini belirtir"
+  },
+  {
+    "label": "return",
+    "type": "control",
+    "info": "Fonksiyondan bir değer döndürür"
+  },
+  {
+    "label": "break",
+    "type": "control",
+    "info": "Döngüyü veya switch yapısını kırar"
+  },
+  {
+    "label": "continue",
+    "type": "control",
+    "info": "Döngüdeki mevcut iterasyonu atlar"
+  },
+  {
+    "label": "const",
+    "type": "variable",
+    "info": "Değişkenin değerinin değiştirilemeyeceğini belirtir"
+  },
+  {
+    "label": "float",
+    "type": "variable"
+  },
+  {
+    "label": "char",
+    "type": "variable"
+  },
+  {
+    "label": "unsigned",
+    "type": "variable",
+    "info": "İşaretli olmayan bir tamsayı tipi belirtir"
+  },
+  {
+    "label": "long",
+    "type": "variable"
+  },
+  {
+    "label": "short",
+    "type": "variable"
+  },
+  {
+    "label": "void setup()",
+    "type": "function",
+    "info": "Deneyap Kartın başlangıç ayarlarını yapar"
+  },
+  {
+    "label": "void loop()",
+    "type": "function",
+    "info": "Deneyap Kartın sürekli çalışan ana döngüsü"
+  }
+]
