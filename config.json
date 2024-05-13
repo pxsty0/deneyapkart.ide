@@ -1,5 +1,5 @@
 {
-  "supportedVersions": ["0.1.3-rev-2", "0.1.6","0.1.7","0.1.7-alpha"],
+  "supportedVersions": ["0.1.6","0.1.7","0.1.7-alpha"],
   "updateMessages": {
     "latest": "Kütüphane yöneticisindeki hatalar giderildi. Ayrıca, otomatik tamamlama sistemi iyileştirilerek güncellendi. Ek olarak, ayarlardaki seçenekler artırıldı ve kullanıcıların isteğine bağlı olarak özellikler eklendi. Arayüz güncellendi ve daha kullanıcı dostu hale getirildi. Bu iyileştirmelerin yanı sıra, kullanıcıların verimliliğini ve performansını artıran özellikler entegre edilirken kodlar da stabil hale getirildi.",
     "0.1.6": "Kütüphane yöneticisindeki hatalar giderildi. Ayrıca, otomatik tamamlama sistemi iyileştirilerek güncellendi. Ek olarak, ayarlardaki seçenekler artırıldı ve kullanıcıların isteğine bağlı olarak özellikler eklendi. Arayüz güncellendi ve daha kullanıcı dostu hale getirildi. Bu iyileştirmelerin yanı sıra, kullanıcıların verimliliğini ve performansını artıran özellikler entegre edilirken kodlar da stabil hale getirildi.",
