@@ -21,12 +21,6 @@
     { "name": "Deneyap Mini V2", "fqbn": "dym_mpv20" },
     { "name": "Deneyap Kart 1A V2", "fqbn": "dydk1a_mpv20" }
   ],
-  "announcements": [
-    {
-      "id": "0001",
-      "title": "Test Duyurusu",
-      "description": "Test Duyurusu Açıklaması"
-    }
-  ],
+  "announcements:[],
   "author": "https://github.com/pxsty0"
 }
