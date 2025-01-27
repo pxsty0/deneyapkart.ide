@@ -1,0 +1,7 @@
+{
+  "supportedVersions": ["0.2.3","0.3.0"],
+  "updateMessages": {
+    "latest":"Hata ve güvenlik güncellemeleri yapıldı"
+  },
+  "author": "https://github.com/pxsty0"
+}
