@@ -1,5 +1,5 @@
 {
-  "supportedVersions": ["0.3.0-beta-2","0.3.0-rc-9"],
+  "supportedVersions": ["0.3.0-beta-2","0.3.0-rc-8","0.3.1"],
   "updateMessages": {
     "latest":"Hata ve güvenlik güncellemeleri yapıldı"
   },
