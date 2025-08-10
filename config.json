@@ -1,5 +1,5 @@
 {
-  "supportedVersions": ["0.3.4","0.4.0-rc-1"],
+  "supportedVersions": ["0.3.4","0.4.0"],
   "updateMessages": {
     "latest":"Kullandığınız Deneyap Kart IDE versiyonu artık desteklenmiyor. Güvenlik iyileştirmeleri ve hata giderimleri için lütfen Deneyap Kart IDE'yi güncelleyin."
   },
